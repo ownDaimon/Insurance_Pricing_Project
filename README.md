@@ -10,5 +10,5 @@ In Part 2, I extended this predictive framework into an actuarial pricing and po
 I also conducted robustness and constraint validation tests covering solution feasibility, discount bounds, budget compliance, Pareto consistency, price-response monotonicity, probability stress testing and discount-budget sensitivity. From an actuarial and insurance management perspective, the overall framework therefore moves beyond traditional acceptance prediction and establishes a decision-support system that connects customer behaviour with risk and pricing economics. The central business recommendation is that the insurer should not pursue portfolio growth through a blanket discount strategy; instead, discounts should be selectively allocated to customers where the expected increase in acceptance justifies the associated premium sacrifice and risk exposure. In this way, machine learning provides the behavioural probability estimates, actuarial analysis provides the risk perspective, price elasticity quantifies customer sensitivity, and optimization converts these estimates into an economically efficient portfolio-level pricing strategy.
 
 I love math, I love economics.
-Sincerly,
+Sincerely,
 Cemre Kol 
