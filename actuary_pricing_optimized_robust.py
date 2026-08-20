@@ -20,7 +20,7 @@ from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 
 
-df = pd.read_excel(r"C:\Users\Gem\Downloads\Case_Study_Data(1).xlsx", sheet_name="DATA")
+df = pd.read_excel(r"C:\Users\Gem\Downloads\Insurance_Pricing.xlsx", sheet_name="DATA")
 
 # Çalışma kopyası oluştur
 df = df.copy()
