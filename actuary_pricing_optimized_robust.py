@@ -2612,8 +2612,6 @@ print(
 # ------------------------------------------------------------
 
 lr_model = best_lr
-
-# BURAYI kendi LightGBM modelinin adıyla eşleştir
 lgbm_model = best_lgbm
 
 
